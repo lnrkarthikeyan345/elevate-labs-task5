@@ -1,4 +1,4 @@
-# 📊 Task 5: Exploratory Data Analysis (EDA) | Titanic Dataset
+# 📊 Task 5: Survival Analysis: Titanic EDA using Python
 
 ## 📌 Objective
 Perform Exploratory Data Analysis on the Titanic dataset to extract
